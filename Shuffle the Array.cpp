@@ -18,3 +18,12 @@ public:
         
     }
 };
+
+/* M-2
+        vector<int> out;  
+        for(int x=0; x < n; x++){
+            out.push_back(nums[x]);
+            out.push_back(nums[n+x]);
+        }
+        return out;
+*/
