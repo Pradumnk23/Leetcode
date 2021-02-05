@@ -4,7 +4,6 @@ public:
         return n-1;
     }
 };
-
 /*
 int numberOfMatches(int n) {
     int cnt = 0;
