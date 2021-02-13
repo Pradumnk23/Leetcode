@@ -12,6 +12,7 @@ public:
             return false;
     }
 };
+/* ---------------- M-2 -----------------*/
 /*
 bool arrayStringsAreEqual(vector<string>& word1, vector<string>& word2) {
         string a,b;
