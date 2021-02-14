@@ -10,7 +10,7 @@ public:
         return ans;
     }
 };
-/* ------BETTER APPROACH------
+/* ------ BETTER APPROACH (R-2)  ------
 
 int xorOperation(int n, int start) {   
 		int res = start;
