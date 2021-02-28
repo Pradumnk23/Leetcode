@@ -9,3 +9,5 @@ public:
 	        return s;
     }
 };
+
+/* here points[i][0] is 1st cordinate as i=0 and 0 denotes x axis and if here's 1 then it denotes y axis */
