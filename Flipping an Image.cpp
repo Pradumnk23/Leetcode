@@ -8,3 +8,4 @@ public:
         return image;
     }
 };
+// For two vector using 2 fr loop 1st to reverse and 2nd for ^=1
